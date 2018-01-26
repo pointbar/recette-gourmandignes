@@ -1,6 +1,6 @@
 # Recette de la galette frangipane aux pommes
 
-![illustration](https://github.com/akakeronos/recette-gourmandignes/raw/master/atelier-2018-01-12/images/.jpg)
+![illustration](https://github.com/akakeronos/recette-gourmandignes/raw/master/images/IMG_20180112_213831.jpg)
 
 ## Ingédients
 pour 1 galette
@@ -44,7 +44,7 @@ Crème pâtissière
 6. Verser dans le saladier ou dans un plat large afin que la crème refroidisse plus vite.
 Recouvrir de cellophane au contact (le plastique sur la crème pas sur le bord du saladier). Mettre au réfrigérateur.
 
-![crème pâtissière](https://github.com/akakeronos/recette-gourmandignes/raw/master/atelier-2018-01-12/images/IMG_.jpg)
+![crème pâtissière](https://github.com/akakeronos/recette-gourmandignes/raw/master/images/IMG_20180112_193958.jpg)
 
 Crème d'amandes
 1. Peser l'oeuf et adapter le poids des autres éléments.
@@ -71,6 +71,6 @@ Ne pas oublier la fève si c'est la saison.
 Passer au pinceau de l'oeuf ou du lait pour dorer la pâte (facultatif)
 7. Enfourner pour 30 min environ.
 
-![](https://github.com/akakeronos/recette-gourmandignes/raw/master/atelier-2018-01-12/images/IMG_.jpg)
+![](https://github.com/akakeronos/recette-gourmandignes/raw/master/atelier-2018-01-12/images/IMG_20180112_201954.jpg)
 
 Déguster une fois refroidie.
