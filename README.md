@@ -18,3 +18,5 @@ Ces recettes de cuisine ont été réalisées lors des ateliers Gourmandignes or
 
 
 * [Atelier du 8 décembre 2017: tout légumes et pommes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-12-08/introduction.md). Atelier réalisé sous la supervision de Bénédicte Lambert, créatrice culinaire à Montpellier. soupe chou-fleur, semoule chou-fleur, makis, houmous, gateau haricots et tarte crue à la pomme.
+
+* [Atelier du 8 décembre 2017: Gyoza et frangipane](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2018-01-12/introduction.md). Atelier réalisé sous la supervision de Bénédicte Lambert, créatrice culinaire à Montpellier. Gyozas et tarte frangipane à la pomme.
