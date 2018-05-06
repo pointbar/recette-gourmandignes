@@ -1,4 +1,4 @@
-## Atelier spécial poisson
+## Atelier spécial asperges
 
 Chef : Paulette
 [site Internet](http://www.papillesetcompagnie.fr/)
