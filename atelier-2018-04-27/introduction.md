@@ -32,7 +32,7 @@ Chef : Paulette
 * sel, poivre
 
 # plat de résistance
-* 1 kilo de riz bio : €
+* 1 kilo de riz bio : 4 €
 * 300 g de carrotes
 *
 * 300 g de fèves
