@@ -35,8 +35,8 @@ Pour les muffins
 7. Dans un saladier, battez les œufs avec le sucre jusqu’à obtenir un mélange mousseux.
 8. Diluez le matcha dans 2 cuillerées à soupe d’eau chaude.
 9. Faites fondre le beurre.
-10. Ajoutez le matcha et le beurre fondu au saladier d’oeufs battus.
-11. Mélangez.Dans un autre saladier, mélangez la farine, la fécule de maïs et le sel .
+10. Ajoutez le matcha et le beurre fondu au saladier d’oeufs battus. Mélangez
+11. Dans un autre saladier, mélangez la farine, la fécule de maïs et le sel .
 12. Combinez les ingrédients des 2 saladiers.Préchauffez le four à 180°C.Beurrez et farinez les moules (sauf s’ils sont en silicone).
 13. Versez le contenu du saladier dans les moules en les remplissant à moitié.
 14. Déposez 1/2 cuillerée à soupe de pâte tsubu-an au centre de chaque moule.

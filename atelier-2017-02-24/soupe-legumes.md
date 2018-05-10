@@ -1,5 +1,14 @@
-# Soupe citrouille pomme de terre épinards
-
+---
+author: Bénédicte Lambert
+description: Une soupe d'hiver simple à réaliser
+image_url: ./images/matcha_azuki-4-sur-1.jpg
+title: Soupe citrouille pomme de terre épinards
+licence: CC-by-sa
+categorie: soupe
+niveau: débutant
+date: 12/05/2017
+nombre: 12 personnes
+---
 ## Préparation de la soupe :
 
 * éplucher 1,5kg de patates
