@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Une salade de mâche et de légumes de printemps
-image_url: https://github.com/akakeronos/recette-gourmandignes/raw/master/images/matcha_azuki-4-sur-1.jpg
+#image_url: https://github.com/akakeronos/recette-gourmandignes/raw/master/images/matcha_azuki-4-sur-1.jpg
 title: Recette de la salade de crudités
 licence: CC-by-sa
 categorie: salade
@@ -9,6 +9,7 @@ niveau: débutant
 date: 12/05/2017
 nombre: 8 personnes
 ---
+
 * Préparer la mâche en séparant les feuilles
 * Ajouter la betterave, le radis, le chou rouge après les avoir râpé avec une râpe à légumes
 * Ajouter des graines de tournesol, de lin et de sésame en les ayant éventuellement fait toaster quelques minutes au four dans un plat sur une feuille de papier sulfurisé ou une feuille de silicone
