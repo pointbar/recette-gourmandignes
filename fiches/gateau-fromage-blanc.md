@@ -1,10 +1,10 @@
 ---
 author: Bénédicte Lambert
 description: Un gâteau simple, sain et rapide à réaliser
-image_url: ./images/matcha_azuki-4-sur-1.jpg
+image_url: https://raw.githubusercontent.com/akakeronos/recettes-co/master/images/matcha_azuki-4-sur-1.jpg
 title: Recette du gâteau
 licence: CC-by-sa
-categorie: gâteau
+categorie: gateau
 niveau: débutant
 date: 12/05/2017
 nombre: 8 personnes

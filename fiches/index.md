@@ -1,10 +1,9 @@
 ---
 author: Assocation gourmandignes
 description: Des recettes simples à réaliser avec des produits bio et de saison
-image_url: ./images/matcha_azuki-4-sur-1.jpg
+image_url: https://raw.githubusercontent.com/akakeronos/recettes-co/master/images/matcha_azuki-4-sur-1.jpg
 title: Recette coopératives de proximité
 licence: CC-by-sa
-categorie: recette
 niveau: débutant
 date: 12/05/2017
 ---

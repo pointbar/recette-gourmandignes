@@ -1,10 +1,10 @@
 ---
 author: Bénédicte Lambert
 description: Une tarte d'hiver simple à réaliser avec la fabrication de la pâte maison
-image_url: ./images/matcha_azuki-4-sur-1.jpg
+image_url: https://raw.githubusercontent.com/akakeronos/recettes-co/master/images/matcha_azuki-4-sur-1.jpg
 title: Recette de la tarte aux légumes
 licence: CC-by-sa
-categorie: soupe
+categorie: tarte
 niveau: débutant
 date: 12/05/2017
 nombre: 12 personnes
